@@ -27,5 +27,7 @@ Once the queue ends an email is sent to your specified account.
     when the queue ends you will be sent an email :)
 
 ###### IMPORTANT
-  *Make sure the window for overwatch is the top window (the one your tabbed onto)*
+*Make sure the window for overwatch is the top window (the one your tabbed onto)*
 
+###### Security
+*This application does not send any information outbound, all we require is your email address and this data stays on your computer in a "default.dat" file. We do not require any sign up, or for you to send any personalm information. This app gives you total control. Don't belive me - Check out the source code [here](htt)*
