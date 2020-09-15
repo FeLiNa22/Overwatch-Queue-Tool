@@ -13,7 +13,7 @@ Once the queue ends an email is sent to your specified account.
 
 ## HOW TO USE
 
-1.) First clone the repository
+1.) First clone the repository (*You can alternatively just download the repo as a zip file, and then unzip it* )
         
     git clone https://github.com/FeLiNa22/Overwatch-Queue-Tool.git
 
