@@ -21,10 +21,10 @@ Once the queue ends an email is sent to your specified account.
 
 3.) Set your email address (please use a valid one)
 
-4.) Open Overwatch and then click the start button
+4.) Open Overwatch, click the start button and then start a queue.
 
-5.) Tab onto the overwatch screen and then go on with your day
-    when the queue ends,  you will be sent an email :)
+5.) Stay tabbed on the overwatch screen and then go on with your day
+    when the queue ends you will be sent an email :)
 
 ###### IMPORTANT
   *Make sure the window for overwatch is the top window (the one your tabbed onto)*
