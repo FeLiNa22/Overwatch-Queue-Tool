@@ -1,9 +1,9 @@
 # Overwatch-Queue-Tool
 
-Overwatch queue's are extremely long and no-one can be bothered to wait at their computer for 20 minutes, and if you get up to make a cup of coffee you usually come back to realise they have been kicked out of the game and have just lost 50 SR :(
+Overwatch queue's are extremely long and no-one can be bothered to wait at their computer for 20 minutes, and if you get up to make a cup of coffee you usually come back to realise you've just been kicked out of the game and have lost 50 SR :(
 
-To solve this problem I have created a notification engine whiich essentially monitors your overwatch queue for you, whilst you go fix yourself a cup of joe.
-When you enter a game, the program sends you an email, and you can head back to your PC to get that W. 
+To solve this problem I have created a notification engine whiich essentially monitors your overwatch queue whilst you go fix yourself a cup of joe.
+When you enter a game and your queue ends the program sends you an email, and you can head back to your PC to get that W. 
 
 ## HOW IT WORKS
 
