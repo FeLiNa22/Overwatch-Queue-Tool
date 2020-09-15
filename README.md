@@ -17,7 +17,7 @@ Once the queue ends an email is sent to your specified account.
         
     git clone https://github.com/FeLiNa22/Overwatch-Queue-Tool.git
 
-2.) Then go into the master directory and double click the .exe application
+2.) Then go into the folder and double click the "Overwatch Queue Tool.exe" application (*It may take a few seconds to start up*)
 
 3.) Set your email address (please use a valid one)
 
@@ -28,6 +28,7 @@ Once the queue ends an email is sent to your specified account.
 
 ###### IMPORTANT
 *Make sure the window for overwatch is the top window (the one your tabbed onto)*
+*Do not move around any of the files or .exe*
 
 ###### Security
 *This application does NOT send any of your information outbound, your email address is all that is used and this data stays on your computer in a "default.dat" file. We do not require any sign up or for you to send any personal information. This app gives you total control. Don't believe me - Check out the source code [here](https://github.com/FeLiNa22/Overwatch-Queue-Tool-Open-Source/)*
