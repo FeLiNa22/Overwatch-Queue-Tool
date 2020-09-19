@@ -13,18 +13,15 @@ Once the queue ends an email is sent to your specified account.
 
 ## HOW TO USE
 
-1.) First clone the repository (*You can alternatively just download the repo as a zip file, and then unzip it* )
-        
-    git clone https://github.com/FeLiNa22/Overwatch-Queue-Tool.git
+1.) First download the latest version of the application from here - [download now](https://github.com/FeLiNa22/Overwatch-Queue-Tool/releases/download/v1.0-alpha/Overwatch-Queue-Tool.zip)
 
-2.) Then go into the folder and double click the "Overwatch Queue Tool.exe" application (*It may take a few seconds to start up*)
+2.) Unzip the folder wherever you would like. This will create a folder called "Overwatch-Queue-Tool". Go into this folder and double click the "Overwatch Queue Tool.exe" application (*It may take a few seconds to start up*)
 
-3.) Set your email address (please use a valid one)
+3.) You will then see a GUI asking for you to set your email address (please use a valid one)
 
-4.) Open Overwatch, click the start button and then start a queue. **(NOTE - This program works best when Overwatch is in Borderless Windowed mode)**
+4.) Open Overwatch and start a queue. Then click the start button in the Overwatch Queue Tool application. **(NOTE - This program works best when Overwatch is in Borderless Windowed mode)**
 
-5.) Stay tabbed on the overwatch screen and then go on with your day
-    when the queue ends you will be sent an email :)
+5.) Stay tabbed on the overwatch screen and then go on with your day, when the queue ends you will be sent an email and you can happily enjoy your game :)
 
 ###### IMPORTANT
 *Make sure the window for overwatch is the top window (the one your tabbed onto)*
