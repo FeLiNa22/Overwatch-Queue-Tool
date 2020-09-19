@@ -32,7 +32,7 @@ Once the queue ends an email is sent to your specified account.
 ###### Security
 *This application does NOT send any of your information outbound, your email address is all that is used and this data stays on your computer in a "default.dat" file. We do not require any sign up or for you to send any personal information. This app gives you total control. Don't believe me - Check out the source code [here](https://github.com/FeLiNa22/Overwatch-Queue-Tool-Open-Source/)*
 
-## Note for developers
+## Note for developers - [Source Code](https://github.com/FeLiNa22/Overwatch-Queue-Tool-Open-Source/)
 
 I have made all the source code completely open source, as I believe tools like this should not be commercialised. 
 If you do want to fork this project or continue to work on it (PM me).
