@@ -24,7 +24,9 @@ Once the queue ends an email is sent to your specified account.
 5.) Stay tabbed on the overwatch screen and then go on with your day, when the queue ends you will be sent an email and you can happily enjoy your game :)
 
 ###### IMPORTANT
+
 *Make sure the window for overwatch is the top window (the one your tabbed onto)*
+
 *Do not move around any of the files or .exe*
 
 ###### Security
