@@ -38,6 +38,6 @@ Once the queue ends an email is sent to your specified account.
 
 ## Note for developers - [Source Code](https://github.com/FeLiNa22/Overwatch-Queue-Tool/blob/master/Overwatch_Queue_Tool.py)
 
-I have made all the source code completely open source, as I believe tools like this should not be commercialised. 
-If you do want to fork this project or continue to work on it (PM me).
+I have made all of this project completely open source as I believe tools like this should not be commercialised. 
+If you want to fork this project or continue to work on it (PM me).
 
