@@ -5,6 +5,8 @@ Overwatch queue's are extremely long and no-one can be bothered to wait at their
 To solve this problem I have created a notification engine whiich essentially monitors your overwatch queue whilst you go fix yourself a cup of joe.
 When you enter a game and your queue ends the program sends you an email, and you can head back to your PC to get that W. 
 
+![Overwatch Queue Tool In Action](https://preview.redd.it/sz9en9ikxbv51.png?width=2560&format=png&auto=webp&s=3fe87bd5b193084d72fe6b48e57a38996eefeb5a)
+
 [Download Now](https://github.com/FeLiNa22/Overwatch-Queue-Tool/releases/download/v1.0-alpha/Overwatch-Queue-Tool.zip) :white_check_mark:
 
 ## HOW IT WORKS
